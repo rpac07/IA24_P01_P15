@@ -3,6 +3,9 @@
 
 Este projeto utiliza a biblioteca **OR-Tools** da Google para resolver problemas de programação e planeamento de tarefas. Ele é especialmente útil para planear projetos de forma eficiente, respeitando dependências entre tarefas, recursos limitados e otimizando o tempo total de execução (makespan).
 
+
+Git Link - > https://github.com/rpac07/IA24_P01_P15
+
 ---
 
 ## 🚀 Funcionalidades
